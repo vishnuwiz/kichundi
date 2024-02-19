@@ -3,7 +3,7 @@ const ctx = canvas.getContext("2d");
 const Vec = (x, y) => ({x, y});
 const setStyle = (ctx,style) => {    Object.keys(style).forEach(key => ctx[key] = style[key]) }
 const createImage = (w,h) => {var i=document.createElement("canvas");i.width=w;i.height=h;i.ctx=i.getContext("2d");return i}
-const textList = ["TEXT"];
+const textList = ["Yes, I'm Kundippenn 💘"];
 var textPos = 0;
 var w = canvas.width;
 var h = canvas.height;
