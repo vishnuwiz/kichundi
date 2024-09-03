@@ -97,7 +97,7 @@ class CreateParticles {
 
 		this.data = {
 
-			text: 'I MISS U\nKICHUO',
+			text: 'Blah Blaah\n BLAHHH !! ',
 			amount: 1500,
 			particleSize: 1,
 			particleColor: 0xffffff,
